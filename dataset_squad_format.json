@@ -1,0 +1,2839 @@
+{
+  "data": [
+    {
+      "title": "CESFAM Padre Hurtado",
+      "paragraphs": [
+        {
+          "context": "Esquina Av. Vicuña Mackenna con Av. La Cruz, sector Mirasol, Padre Hurtado, Puerto Montt",
+          "qas": [
+            {
+              "id": "1",
+              "question": "¿En qué dirección se encuentra CESFAM Padre Hurtado?",
+              "answers": [
+                {
+                  "text": "Esquina Av. Vicuña Mackenna con Av. La Cruz, sector Mirasol, Padre Hurtado, Puerto Montt",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Padre Hurtado",
+      "paragraphs": [
+        {
+          "context": "Esquina Av. Vicuña Mackenna con Av. La Cruz, sector Mirasol, Padre Hurtado, Puerto Montt",
+          "qas": [
+            {
+              "id": "2",
+              "question": "¿Dónde está localizado CESFAM Padre Hurtado?",
+              "answers": [
+                {
+                  "text": "Esquina Av. Vicuña Mackenna con Av. La Cruz, sector Mirasol, Padre Hurtado, Puerto Montt",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Padre Hurtado",
+      "paragraphs": [
+        {
+          "context": "CESFAM Padre Hurtado",
+          "qas": [
+            {
+              "id": "3",
+              "question": "¿Cuál es la ubicación exacta de CESFAM Padre Hurtado?",
+              "answers": [
+                {
+                  "text": "Esquina Av. Vicuña Mackenna con Av. La Cruz, sector Mirasol, Padre Hurtado, Puerto Montt",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Padre Hurtado",
+      "paragraphs": [
+        {
+          "context": "Lunes a jueves 08:00-17:00; viernes 08:00-16:00",
+          "qas": [
+            {
+              "id": "4",
+              "question": "¿Cuál es el horario general de atención en CESFAM Padre Hurtado?",
+              "answers": [
+                {
+                  "text": "Lunes a jueves 08:00-17:00; viernes 08:00-16:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Padre Hurtado",
+      "paragraphs": [
+        {
+          "context": "CESFAM Padre Hurtado",
+          "qas": [
+            {
+              "id": "5",
+              "question": "¿Qué horario tiene el CESFAM para atención general?",
+              "answers": [
+                {
+                  "text": "Lunes a jueves 08:00-17:00; viernes 08:00-16:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Padre Hurtado",
+      "paragraphs": [
+        {
+          "context": "CESFAM Padre Hurtado",
+          "qas": [
+            {
+              "id": "6",
+              "question": "¿Cuáles son las horas de atención al público general en CESFAM Padre Hurtado?",
+              "answers": [
+                {
+                  "text": "Lunes a jueves 08:00-17:00; viernes 08:00-16:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Padre Hurtado",
+      "paragraphs": [
+        {
+          "context": "CESFAM Padre Hurtado",
+          "qas": [
+            {
+              "id": "7",
+              "question": "¿Cuál es el horario de funcionamiento de la farmacia en CESFAM Padre Hurtado?",
+              "answers": [
+                {
+                  "text": "Lunes a jueves 08:00-13:00,14:00 a 16:00 ; viernes    08:00-13:00,14:00-15:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Padre Hurtado",
+      "paragraphs": [
+        {
+          "context": "CESFAM Padre Hurtado",
+          "qas": [
+            {
+              "id": "8",
+              "question": "¿Qué horarios tiene la farmacia del CESFAM en CESFAM Padre Hurtado?",
+              "answers": [
+                {
+                  "text": "Lunes a jueves 08:00-13:00,14:00 a 16:00 ; viernes    08:00-13:00,14:00-15:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Padre Hurtado",
+      "paragraphs": [
+        {
+          "context": "CESFAM Padre Hurtado",
+          "qas": [
+            {
+              "id": "9",
+              "question": "¿Cuándo está abierta la farmacia de CESFAM Padre Hurtado?",
+              "answers": [
+                {
+                  "text": "Lunes a jueves 08:00-13:00,14:00 a 16:00 ; viernes    08:00-13:00,14:00-15:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Padre Hurtado",
+      "paragraphs": [
+        {
+          "context": "CESFAM Padre Hurtado",
+          "qas": [
+            {
+              "id": "10",
+              "question": "¿Qué horario tiene el servicio de urgencias en CESFAM Padre Hurtado?",
+              "answers": [
+                {
+                  "text": "24 horas todos los días",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Padre Hurtado",
+      "paragraphs": [
+        {
+          "context": "CESFAM Padre Hurtado",
+          "qas": [
+            {
+              "id": "11",
+              "question": "¿Cuándo opera el área de urgencias en CESFAM Padre Hurtado?",
+              "answers": [
+                {
+                  "text": "24 horas todos los días",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Padre Hurtado",
+      "paragraphs": [
+        {
+          "context": "CESFAM Padre Hurtado",
+          "qas": [
+            {
+              "id": "12",
+              "question": "¿Cuál es el horario de atención para emergencias en CESFAM Padre Hurtado?",
+              "answers": [
+                {
+                  "text": "24 horas todos los días",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Padre Hurtado",
+      "paragraphs": [
+        {
+          "context": "CESFAM Padre Hurtado",
+          "qas": [
+            {
+              "id": "13",
+              "question": "¿Cómo puedo contactar a CESFAM Padre Hurtado?",
+              "answers": [
+                {
+                  "text": "Email: oirs.cesfamphurtado@saludpm.cl, Teléfono: 800 650 100 opción 1",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Padre Hurtado",
+      "paragraphs": [
+        {
+          "context": "Email: oirs.cesfamphurtado@saludpm.cl, Teléfono: 800 650 100 opción 1",
+          "qas": [
+            {
+              "id": "14",
+              "question": "¿Cuál es el número de teléfono de CESFAM Padre Hurtado?",
+              "answers": [
+                {
+                  "text": "Email: oirs.cesfamphurtado@saludpm.cl, Teléfono: 800 650 100 opción 1",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Padre Hurtado",
+      "paragraphs": [
+        {
+          "context": "CESFAM Padre Hurtado",
+          "qas": [
+            {
+              "id": "15",
+              "question": "¿Cómo obtener información de contacto de CESFAM Padre Hurtado?",
+              "answers": [
+                {
+                  "text": "Email: oirs.cesfamphurtado@saludpm.cl, Teléfono: 800 650 100 opción 1",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Padre Hurtado",
+      "paragraphs": [
+        {
+          "context": "CESFAM Padre Hurtado",
+          "qas": [
+            {
+              "id": "16",
+              "question": "¿Qué servicios ofrece CESFAM Padre Hurtado?",
+              "answers": [
+                {
+                  "text": "Atención general, odontología, vacunatorio, urgencia dental, laboratorio",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Padre Hurtado",
+      "paragraphs": [
+        {
+          "context": "CESFAM Padre Hurtado",
+          "qas": [
+            {
+              "id": "17",
+              "question": "¿Cuáles son los servicios disponibles en CESFAM Padre Hurtado?",
+              "answers": [
+                {
+                  "text": "Atención general, odontología, vacunatorio, urgencia dental, laboratorio",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Padre Hurtado",
+      "paragraphs": [
+        {
+          "context": "CESFAM Padre Hurtado",
+          "qas": [
+            {
+              "id": "18",
+              "question": "¿Qué tipo de atención brinda CESFAM Padre Hurtado?",
+              "answers": [
+                {
+                  "text": "Atención general, odontología, vacunatorio, urgencia dental, laboratorio",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Padre Hurtado",
+      "paragraphs": [
+        {
+          "context": "CESFAM Padre Hurtado",
+          "qas": [
+            {
+              "id": "19",
+              "question": "¿Qué áreas cubre CESFAM Padre Hurtado?",
+              "answers": [
+                {
+                  "text": "Sin información específica",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Padre Hurtado",
+      "paragraphs": [
+        {
+          "context": "CESFAM Padre Hurtado",
+          "qas": [
+            {
+              "id": "20",
+              "question": "¿A qué sectores atiende CESFAM Padre Hurtado?",
+              "answers": [
+                {
+                  "text": "Sin información específica",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Padre Hurtado",
+      "paragraphs": [
+        {
+          "context": "CESFAM Padre Hurtado",
+          "qas": [
+            {
+              "id": "21",
+              "question": "¿Qué poblaciones tienen acceso a los servicios de CESFAM Padre Hurtado?",
+              "answers": [
+                {
+                  "text": "Sin información específica",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Padre Hurtado",
+      "paragraphs": [
+        {
+          "context": "CESFAM Padre Hurtado",
+          "qas": [
+            {
+              "id": "22",
+              "question": "¿Qué se necesita para inscribirse en CESFAM Padre Hurtado?",
+              "answers": [
+                {
+                  "text": "Presentar identificación y documento de FONASA",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Padre Hurtado",
+      "paragraphs": [
+        {
+          "context": "CESFAM Padre Hurtado",
+          "qas": [
+            {
+              "id": "23",
+              "question": "¿Cuáles son los requisitos para registrarse en CESFAM Padre Hurtado?",
+              "answers": [
+                {
+                  "text": "Presentar identificación y documento de FONASA",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Padre Hurtado",
+      "paragraphs": [
+        {
+          "context": "CESFAM Padre Hurtado",
+          "qas": [
+            {
+              "id": "24",
+              "question": "¿Qué documentos son necesarios para inscribirse en CESFAM Padre Hurtado?",
+              "answers": [
+                {
+                  "text": "Presentar identificación y documento de FONASA",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Padre Hurtado",
+      "paragraphs": [
+        {
+          "context": "CESFAM Padre Hurtado",
+          "qas": [
+            {
+              "id": "25",
+              "question": "¿Qué detalles importantes se deben saber sobre CESFAM Padre Hurtado?",
+              "answers": [
+                {
+                  "text": "SAPU urgencias junto al CESFAM Padre Hurtado, farmacia entrega por orden de llegada y horario específico",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Padre Hurtado",
+      "paragraphs": [
+        {
+          "context": "CESFAM Padre Hurtado",
+          "qas": [
+            {
+              "id": "26",
+              "question": "¿Qué observaciones específicas tiene CESFAM Padre Hurtado?",
+              "answers": [
+                {
+                  "text": "SAPU urgencias junto al CESFAM Padre Hurtado, farmacia entrega por orden de llegada y horario específico",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Padre Hurtado",
+      "paragraphs": [
+        {
+          "context": "CESFAM Padre Hurtado",
+          "qas": [
+            {
+              "id": "27",
+              "question": "¿Qué recomendaciones se deben considerar en CESFAM Padre Hurtado?",
+              "answers": [
+                {
+                  "text": "SAPU urgencias junto al CESFAM Padre Hurtado, farmacia entrega por orden de llegada y horario específico",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Carmela Carvajal",
+      "paragraphs": [
+        {
+          "context": "CESFAM Carmela Carvajal",
+          "qas": [
+            {
+              "id": "28",
+              "question": "¿En qué dirección se encuentra CESFAM Carmela Carvajal?",
+              "answers": [
+                {
+                  "text": "Calle Los Deportistas 1188, Población Linz, Puerto Montt",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Carmela Carvajal",
+      "paragraphs": [
+        {
+          "context": "CESFAM Carmela Carvajal",
+          "qas": [
+            {
+              "id": "29",
+              "question": "¿Dónde está localizado CESFAM Carmela Carvajal?",
+              "answers": [
+                {
+                  "text": "Calle Los Deportistas 1188, Población Linz, Puerto Montt",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Carmela Carvajal",
+      "paragraphs": [
+        {
+          "context": "CESFAM Carmela Carvajal",
+          "qas": [
+            {
+              "id": "30",
+              "question": "¿Cuál es la ubicación exacta de CESFAM Carmela Carvajal?",
+              "answers": [
+                {
+                  "text": "Calle Los Deportistas 1188, Población Linz, Puerto Montt",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Carmela Carvajal",
+      "paragraphs": [
+        {
+          "context": "CESFAM Carmela Carvajal",
+          "qas": [
+            {
+              "id": "31",
+              "question": "¿Cuál es el horario general de atención en CESFAM Carmela Carvajal?",
+              "answers": [
+                {
+                  "text": "Lunes a jueves 08:30-16:00; viernes 08:30-15:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Carmela Carvajal",
+      "paragraphs": [
+        {
+          "context": "CESFAM Carmela Carvajal",
+          "qas": [
+            {
+              "id": "32",
+              "question": "¿Qué horario tiene el CESFAM para atención general?",
+              "answers": [
+                {
+                  "text": "Lunes a jueves 08:30-16:00; viernes 08:30-15:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Carmela Carvajal",
+      "paragraphs": [
+        {
+          "context": "CESFAM Carmela Carvajal",
+          "qas": [
+            {
+              "id": "33",
+              "question": "¿Cuáles son las horas de atención al público general en CESFAM Carmela Carvajal?",
+              "answers": [
+                {
+                  "text": "Lunes a jueves 08:30-16:00; viernes 08:30-15:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Carmela Carvajal",
+      "paragraphs": [
+        {
+          "context": "CESFAM Carmela Carvajal",
+          "qas": [
+            {
+              "id": "34",
+              "question": "¿Cuál es el horario de funcionamiento de la farmacia en CESFAM Carmela Carvajal?",
+              "answers": [
+                {
+                  "text": "Lunes a jueves 08:30-12:30, 14:00-16:00; viernes 08:30-15:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Carmela Carvajal",
+      "paragraphs": [
+        {
+          "context": "CESFAM Carmela Carvajal",
+          "qas": [
+            {
+              "id": "35",
+              "question": "¿Qué horarios tiene la farmacia del CESFAM en CESFAM Carmela Carvajal?",
+              "answers": [
+                {
+                  "text": "Lunes a jueves 08:30-12:30, 14:00-16:00; viernes 08:30-15:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Carmela Carvajal",
+      "paragraphs": [
+        {
+          "context": "CESFAM Carmela Carvajal",
+          "qas": [
+            {
+              "id": "36",
+              "question": "¿Cuándo está abierta la farmacia de CESFAM Carmela Carvajal?",
+              "answers": [
+                {
+                  "text": "Lunes a jueves 08:30-12:30, 14:00-16:00; viernes 08:30-15:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Carmela Carvajal",
+      "paragraphs": [
+        {
+          "context": "CESFAM Carmela Carvajal",
+          "qas": [
+            {
+              "id": "37",
+              "question": "¿Qué horario tiene el servicio de urgencias en CESFAM Carmela Carvajal?",
+              "answers": [
+                {
+                  "text": "No disponible",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Carmela Carvajal",
+      "paragraphs": [
+        {
+          "context": "CESFAM Carmela Carvajal",
+          "qas": [
+            {
+              "id": "38",
+              "question": "¿Cuándo opera el área de urgencias en CESFAM Carmela Carvajal?",
+              "answers": [
+                {
+                  "text": "No disponible",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Carmela Carvajal",
+      "paragraphs": [
+        {
+          "context": "CESFAM Carmela Carvajal",
+          "qas": [
+            {
+              "id": "39",
+              "question": "¿Cuál es el horario de atención para emergencias en CESFAM Carmela Carvajal?",
+              "answers": [
+                {
+                  "text": "No disponible",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Carmela Carvajal",
+      "paragraphs": [
+        {
+          "context": "CESFAM Carmela Carvajal",
+          "qas": [
+            {
+              "id": "40",
+              "question": "¿Cómo puedo contactar a CESFAM Carmela Carvajal?",
+              "answers": [
+                {
+                  "text": "Email: oirs.ccc@saludpm.cl, Teléfono: 65(2)261250 – 261252",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Carmela Carvajal",
+      "paragraphs": [
+        {
+          "context": "CESFAM Carmela Carvajal",
+          "qas": [
+            {
+              "id": "41",
+              "question": "¿Cuál es el número de teléfono de CESFAM Carmela Carvajal?",
+              "answers": [
+                {
+                  "text": "Email: oirs.ccc@saludpm.cl, Teléfono: 65(2)261250 – 261252",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Carmela Carvajal",
+      "paragraphs": [
+        {
+          "context": "CESFAM Carmela Carvajal",
+          "qas": [
+            {
+              "id": "42",
+              "question": "¿Cómo obtener información de contacto de CESFAM Carmela Carvajal?",
+              "answers": [
+                {
+                  "text": "Email: oirs.ccc@saludpm.cl, Teléfono: 65(2)261250 – 261252",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Carmela Carvajal",
+      "paragraphs": [
+        {
+          "context": "CESFAM Carmela Carvajal",
+          "qas": [
+            {
+              "id": "43",
+              "question": "¿Qué servicios ofrece CESFAM Carmela Carvajal?",
+              "answers": [
+                {
+                  "text": "Atención general, farmacia, vacunatorio, procedimientos, inyectables",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Carmela Carvajal",
+      "paragraphs": [
+        {
+          "context": "CESFAM Carmela Carvajal",
+          "qas": [
+            {
+              "id": "44",
+              "question": "¿Cuáles son los servicios disponibles en CESFAM Carmela Carvajal?",
+              "answers": [
+                {
+                  "text": "Atención general, farmacia, vacunatorio, procedimientos, inyectables",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Carmela Carvajal",
+      "paragraphs": [
+        {
+          "context": "CESFAM Carmela Carvajal",
+          "qas": [
+            {
+              "id": "45",
+              "question": "¿Qué tipo de atención brinda CESFAM Carmela Carvajal?",
+              "answers": [
+                {
+                  "text": "Atención general, farmacia, vacunatorio, procedimientos, inyectables",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Carmela Carvajal",
+      "paragraphs": [
+        {
+          "context": "CESFAM Carmela Carvajal",
+          "qas": [
+            {
+              "id": "46",
+              "question": "¿Qué áreas cubre CESFAM Carmela Carvajal?",
+              "answers": [
+                {
+                  "text": "Población Linz, Ladera Linz, Miramar, Pichi Pelluco, San Rafael",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Carmela Carvajal",
+      "paragraphs": [
+        {
+          "context": "CESFAM Carmela Carvajal",
+          "qas": [
+            {
+              "id": "47",
+              "question": "¿A qué sectores atiende CESFAM Carmela Carvajal?",
+              "answers": [
+                {
+                  "text": "Población Linz, Ladera Linz, Miramar, Pichi Pelluco, San Rafael",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Carmela Carvajal",
+      "paragraphs": [
+        {
+          "context": "CESFAM Carmela Carvajal",
+          "qas": [
+            {
+              "id": "48",
+              "question": "¿Qué poblaciones tienen acceso a los servicios de CESFAM Carmela Carvajal?",
+              "answers": [
+                {
+                  "text": "Población Linz, Ladera Linz, Miramar, Pichi Pelluco, San Rafael",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Carmela Carvajal",
+      "paragraphs": [
+        {
+          "context": "CESFAM Carmela Carvajal",
+          "qas": [
+            {
+              "id": "49",
+              "question": "¿Qué se necesita para inscribirse en CESFAM Carmela Carvajal?",
+              "answers": [
+                {
+                  "text": "Mayor de 18 años, documento de residencia, afiliación a FONASA",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Carmela Carvajal",
+      "paragraphs": [
+        {
+          "context": "CESFAM Carmela Carvajal",
+          "qas": [
+            {
+              "id": "50",
+              "question": "¿Cuáles son los requisitos para registrarse en CESFAM Carmela Carvajal?",
+              "answers": [
+                {
+                  "text": "Mayor de 18 años, documento de residencia, afiliación a FONASA",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Carmela Carvajal",
+      "paragraphs": [
+        {
+          "context": "CESFAM Carmela Carvajal",
+          "qas": [
+            {
+              "id": "51",
+              "question": "¿Qué documentos son necesarios para inscribirse en CESFAM Carmela Carvajal?",
+              "answers": [
+                {
+                  "text": "Mayor de 18 años, documento de residencia, afiliación a FONASA",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Carmela Carvajal",
+      "paragraphs": [
+        {
+          "context": "CESFAM Carmela Carvajal",
+          "qas": [
+            {
+              "id": "52",
+              "question": "¿Qué detalles importantes se deben saber sobre CESFAM Carmela Carvajal?",
+              "answers": [
+                {
+                  "text": "Citas odontológicas mayores de 20 años solo por teléfono los jueves, menores en persona",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Carmela Carvajal",
+      "paragraphs": [
+        {
+          "context": "CESFAM Carmela Carvajal",
+          "qas": [
+            {
+              "id": "53",
+              "question": "¿Qué observaciones específicas tiene CESFAM Carmela Carvajal?",
+              "answers": [
+                {
+                  "text": "Citas odontológicas mayores de 20 años solo por teléfono los jueves, menores en persona",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Carmela Carvajal",
+      "paragraphs": [
+        {
+          "context": "CESFAM Carmela Carvajal",
+          "qas": [
+            {
+              "id": "54",
+              "question": "¿Qué recomendaciones se deben considerar en CESFAM Carmela Carvajal?",
+              "answers": [
+                {
+                  "text": "Citas odontológicas mayores de 20 años solo por teléfono los jueves, menores en persona",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Antonio Varas",
+      "paragraphs": [
+        {
+          "context": "CESFAM Antonio Varas",
+          "qas": [
+            {
+              "id": "55",
+              "question": "¿En qué dirección se encuentra CESFAM Antonio Varas?",
+              "answers": [
+                {
+                  "text": "Calle Dalcahue, Población Antonio Varas, Puerto Montt",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Antonio Varas",
+      "paragraphs": [
+        {
+          "context": "CESFAM Antonio Varas",
+          "qas": [
+            {
+              "id": "56",
+              "question": "¿Dónde está localizado CESFAM Antonio Varas?",
+              "answers": [
+                {
+                  "text": "Calle Dalcahue, Población Antonio Varas, Puerto Montt",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Antonio Varas",
+      "paragraphs": [
+        {
+          "context": "CESFAM Antonio Varas",
+          "qas": [
+            {
+              "id": "57",
+              "question": "¿Cuál es la ubicación exacta de CESFAM Antonio Varas?",
+              "answers": [
+                {
+                  "text": "Calle Dalcahue, Población Antonio Varas, Puerto Montt",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Antonio Varas",
+      "paragraphs": [
+        {
+          "context": "CESFAM Antonio Varas",
+          "qas": [
+            {
+              "id": "58",
+              "question": "¿Cuál es el horario general de atención en CESFAM Antonio Varas?",
+              "answers": [
+                {
+                  "text": "Lunes a jueves 08:00-17:00; viernes 08:00-16:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Antonio Varas",
+      "paragraphs": [
+        {
+          "context": "CESFAM Antonio Varas",
+          "qas": [
+            {
+              "id": "59",
+              "question": "¿Qué horario tiene el CESFAM para atención general?",
+              "answers": [
+                {
+                  "text": "Lunes a jueves 08:00-17:00; viernes 08:00-16:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Antonio Varas",
+      "paragraphs": [
+        {
+          "context": "CESFAM Antonio Varas",
+          "qas": [
+            {
+              "id": "60",
+              "question": "¿Cuáles son las horas de atención al público general en CESFAM Antonio Varas?",
+              "answers": [
+                {
+                  "text": "Lunes a jueves 08:00-17:00; viernes 08:00-16:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Antonio Varas",
+      "paragraphs": [
+        {
+          "context": "CESFAM Antonio Varas",
+          "qas": [
+            {
+              "id": "61",
+              "question": "¿Cuál es el horario de funcionamiento de la farmacia en CESFAM Antonio Varas?",
+              "answers": [
+                {
+                  "text": "Lunes a jueves 08:00-19:00; viernes 08:00-16:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Antonio Varas",
+      "paragraphs": [
+        {
+          "context": "CESFAM Antonio Varas",
+          "qas": [
+            {
+              "id": "62",
+              "question": "¿Qué horarios tiene la farmacia del CESFAM en CESFAM Antonio Varas?",
+              "answers": [
+                {
+                  "text": "Lunes a jueves 08:00-19:00; viernes 08:00-16:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Antonio Varas",
+      "paragraphs": [
+        {
+          "context": "CESFAM Antonio Varas",
+          "qas": [
+            {
+              "id": "63",
+              "question": "¿Cuándo está abierta la farmacia de CESFAM Antonio Varas?",
+              "answers": [
+                {
+                  "text": "Lunes a jueves 08:00-19:00; viernes 08:00-16:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Antonio Varas",
+      "paragraphs": [
+        {
+          "context": "CESFAM Antonio Varas",
+          "qas": [
+            {
+              "id": "64",
+              "question": "¿Qué horario tiene el servicio de urgencias en CESFAM Antonio Varas?",
+              "answers": [
+                {
+                  "text": "Lunes a viernes 17:00-00:00; sábados, domingos y festivos 08:00-00:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Antonio Varas",
+      "paragraphs": [
+        {
+          "context": "CESFAM Antonio Varas",
+          "qas": [
+            {
+              "id": "65",
+              "question": "¿Cuándo opera el área de urgencias en CESFAM Antonio Varas?",
+              "answers": [
+                {
+                  "text": "Lunes a viernes 17:00-00:00; sábados, domingos y festivos 08:00-00:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Antonio Varas",
+      "paragraphs": [
+        {
+          "context": "CESFAM Antonio Varas",
+          "qas": [
+            {
+              "id": "66",
+              "question": "¿Cuál es el horario de atención para emergencias en CESFAM Antonio Varas?",
+              "answers": [
+                {
+                  "text": "Lunes a viernes 17:00-00:00; sábados, domingos y festivos 08:00-00:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Antonio Varas",
+      "paragraphs": [
+        {
+          "context": "CESFAM Antonio Varas",
+          "qas": [
+            {
+              "id": "67",
+              "question": "¿Cómo puedo contactar a CESFAM Antonio Varas?",
+              "answers": [
+                {
+                  "text": "Email: oirs.cesfamavaras@saludpm.cl, Teléfono: 65 2 265951",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Antonio Varas",
+      "paragraphs": [
+        {
+          "context": "CESFAM Antonio Varas",
+          "qas": [
+            {
+              "id": "68",
+              "question": "¿Cuál es el número de teléfono de CESFAM Antonio Varas?",
+              "answers": [
+                {
+                  "text": "Email: oirs.cesfamavaras@saludpm.cl, Teléfono: 65 2 265951",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Antonio Varas",
+      "paragraphs": [
+        {
+          "context": "CESFAM Antonio Varas",
+          "qas": [
+            {
+              "id": "69",
+              "question": "¿Cómo obtener información de contacto de CESFAM Antonio Varas?",
+              "answers": [
+                {
+                  "text": "Email: oirs.cesfamavaras@saludpm.cl, Teléfono: 65 2 265951",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Antonio Varas",
+      "paragraphs": [
+        {
+          "context": "CESFAM Antonio Varas",
+          "qas": [
+            {
+              "id": "70",
+              "question": "¿Qué servicios ofrece CESFAM Antonio Varas?",
+              "answers": [
+                {
+                  "text": "Atención general, odontología, vacunatorio, urgencias, laboratorio, electrocardiograma",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Antonio Varas",
+      "paragraphs": [
+        {
+          "context": "CESFAM Antonio Varas",
+          "qas": [
+            {
+              "id": "71",
+              "question": "¿Cuáles son los servicios disponibles en CESFAM Antonio Varas?",
+              "answers": [
+                {
+                  "text": "Atención general, odontología, vacunatorio, urgencias, laboratorio, electrocardiograma",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Antonio Varas",
+      "paragraphs": [
+        {
+          "context": "CESFAM Antonio Varas",
+          "qas": [
+            {
+              "id": "72",
+              "question": "¿Qué tipo de atención brinda CESFAM Antonio Varas?",
+              "answers": [
+                {
+                  "text": "Atención general, odontología, vacunatorio, urgencias, laboratorio, electrocardiograma",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Antonio Varas",
+      "paragraphs": [
+        {
+          "context": "CESFAM Antonio Varas",
+          "qas": [
+            {
+              "id": "73",
+              "question": "¿Qué áreas cubre CESFAM Antonio Varas?",
+              "answers": [
+                {
+                  "text": "Manuel Rodríguez, La Colina, Bombero Kemp, Juan Soler Manfredini, Valle Volcanes",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Antonio Varas",
+      "paragraphs": [
+        {
+          "context": "CESFAM Antonio Varas",
+          "qas": [
+            {
+              "id": "74",
+              "question": "¿A qué sectores atiende CESFAM Antonio Varas?",
+              "answers": [
+                {
+                  "text": "Manuel Rodríguez, La Colina, Bombero Kemp, Juan Soler Manfredini, Valle Volcanes",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Antonio Varas",
+      "paragraphs": [
+        {
+          "context": "CESFAM Antonio Varas",
+          "qas": [
+            {
+              "id": "75",
+              "question": "¿Qué poblaciones tienen acceso a los servicios de CESFAM Antonio Varas?",
+              "answers": [
+                {
+                  "text": "Manuel Rodríguez, La Colina, Bombero Kemp, Juan Soler Manfredini, Valle Volcanes",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Antonio Varas",
+      "paragraphs": [
+        {
+          "context": "CESFAM Antonio Varas",
+          "qas": [
+            {
+              "id": "76",
+              "question": "¿Qué se necesita para inscribirse en CESFAM Antonio Varas?",
+              "answers": [
+                {
+                  "text": "Fotocopia de cédula, certificado de previsión de salud (FONASA), certificado de residencia",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Antonio Varas",
+      "paragraphs": [
+        {
+          "context": "CESFAM Antonio Varas",
+          "qas": [
+            {
+              "id": "77",
+              "question": "¿Cuáles son los requisitos para registrarse en CESFAM Antonio Varas?",
+              "answers": [
+                {
+                  "text": "Fotocopia de cédula, certificado de previsión de salud (FONASA), certificado de residencia",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Antonio Varas",
+      "paragraphs": [
+        {
+          "context": "CESFAM Antonio Varas",
+          "qas": [
+            {
+              "id": "78",
+              "question": "¿Qué documentos son necesarios para inscribirse en CESFAM Antonio Varas?",
+              "answers": [
+                {
+                  "text": "Fotocopia de cédula, certificado de previsión de salud (FONASA), certificado de residencia",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Antonio Varas",
+      "paragraphs": [
+        {
+          "context": "CESFAM Antonio Varas",
+          "qas": [
+            {
+              "id": "79",
+              "question": "¿Qué detalles importantes se deben saber sobre CESFAM Antonio Varas?",
+              "answers": [
+                {
+                  "text": "Totem para tickets, orden de llegada, procedimientos por indicación médica",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Antonio Varas",
+      "paragraphs": [
+        {
+          "context": "CESFAM Antonio Varas",
+          "qas": [
+            {
+              "id": "80",
+              "question": "¿Qué observaciones específicas tiene CESFAM Antonio Varas?",
+              "answers": [
+                {
+                  "text": "Totem para tickets, orden de llegada, procedimientos por indicación médica",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Antonio Varas",
+      "paragraphs": [
+        {
+          "context": "CESFAM Antonio Varas",
+          "qas": [
+            {
+              "id": "81",
+              "question": "¿Qué recomendaciones se deben considerar en CESFAM Antonio Varas?",
+              "answers": [
+                {
+                  "text": "Totem para tickets, orden de llegada, procedimientos por indicación médica",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Angelmo",
+      "paragraphs": [
+        {
+          "context": "CESFAM Angelmo",
+          "qas": [
+            {
+              "id": "82",
+              "question": "¿En qué dirección se encuentra CESFAM Angelmo?",
+              "answers": [
+                {
+                  "text": "Calle Ecuador esquina Pérez Rosales, Puerto Montt",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Angelmo",
+      "paragraphs": [
+        {
+          "context": "CESFAM Angelmo",
+          "qas": [
+            {
+              "id": "83",
+              "question": "¿Dónde está localizado CESFAM Angelmo?",
+              "answers": [
+                {
+                  "text": "Calle Ecuador esquina Pérez Rosales, Puerto Montt",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Angelmo",
+      "paragraphs": [
+        {
+          "context": "CESFAM Angelmo",
+          "qas": [
+            {
+              "id": "84",
+              "question": "¿Cuál es la ubicación exacta de CESFAM Angelmo?",
+              "answers": [
+                {
+                  "text": "Calle Ecuador esquina Pérez Rosales, Puerto Montt",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Angelmo",
+      "paragraphs": [
+        {
+          "context": "CESFAM Angelmo",
+          "qas": [
+            {
+              "id": "85",
+              "question": "¿Cuál es el horario general de atención en CESFAM Angelmo?",
+              "answers": [
+                {
+                  "text": "Lunes a jueves 08:00-17:00; viernes 08:00-16:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Angelmo",
+      "paragraphs": [
+        {
+          "context": "CESFAM Angelmo",
+          "qas": [
+            {
+              "id": "86",
+              "question": "¿Qué horario tiene el CESFAM para atención general?",
+              "answers": [
+                {
+                  "text": "Lunes a jueves 08:00-17:00; viernes 08:00-16:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Angelmo",
+      "paragraphs": [
+        {
+          "context": "CESFAM Angelmo",
+          "qas": [
+            {
+              "id": "87",
+              "question": "¿Cuáles son las horas de atención al público general en CESFAM Angelmo?",
+              "answers": [
+                {
+                  "text": "Lunes a jueves 08:00-17:00; viernes 08:00-16:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Angelmo",
+      "paragraphs": [
+        {
+          "context": "CESFAM Angelmo",
+          "qas": [
+            {
+              "id": "88",
+              "question": "¿Cuál es el horario de funcionamiento de la farmacia en CESFAM Angelmo?",
+              "answers": [
+                {
+                  "text": "Lunes a jueves 08:00-19:00; viernes 08:00-16:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Angelmo",
+      "paragraphs": [
+        {
+          "context": "CESFAM Angelmo",
+          "qas": [
+            {
+              "id": "89",
+              "question": "¿Qué horarios tiene la farmacia del CESFAM en CESFAM Angelmo?",
+              "answers": [
+                {
+                  "text": "Lunes a jueves 08:00-19:00; viernes 08:00-16:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Angelmo",
+      "paragraphs": [
+        {
+          "context": "CESFAM Angelmo",
+          "qas": [
+            {
+              "id": "90",
+              "question": "¿Cuándo está abierta la farmacia de CESFAM Angelmo?",
+              "answers": [
+                {
+                  "text": "Lunes a jueves 08:00-19:00; viernes 08:00-16:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Angelmo",
+      "paragraphs": [
+        {
+          "context": "CESFAM Angelmo",
+          "qas": [
+            {
+              "id": "91",
+              "question": "¿Qué horario tiene el servicio de urgencias en CESFAM Angelmo?",
+              "answers": [
+                {
+                  "text": "Lunes a viernes 17:00-00:00; sábados, domingos y festivos 08:00-00:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Angelmo",
+      "paragraphs": [
+        {
+          "context": "CESFAM Angelmo",
+          "qas": [
+            {
+              "id": "92",
+              "question": "¿Cuándo opera el área de urgencias en CESFAM Angelmo?",
+              "answers": [
+                {
+                  "text": "Lunes a viernes 17:00-00:00; sábados, domingos y festivos 08:00-00:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Angelmo",
+      "paragraphs": [
+        {
+          "context": "CESFAM Angelmo",
+          "qas": [
+            {
+              "id": "93",
+              "question": "¿Cuál es el horario de atención para emergencias en CESFAM Angelmo?",
+              "answers": [
+                {
+                  "text": "Lunes a viernes 17:00-00:00; sábados, domingos y festivos 08:00-00:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Angelmo",
+      "paragraphs": [
+        {
+          "context": "CESFAM Angelmo",
+          "qas": [
+            {
+              "id": "94",
+              "question": "¿Cómo puedo contactar a CESFAM Angelmo?",
+              "answers": [
+                {
+                  "text": "Email: oirs.cesfamangelmo@saludpm.cl, Teléfono: 65 2 261160",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Angelmo",
+      "paragraphs": [
+        {
+          "context": "CESFAM Angelmo",
+          "qas": [
+            {
+              "id": "95",
+              "question": "¿Cuál es el número de teléfono de CESFAM Angelmo?",
+              "answers": [
+                {
+                  "text": "Email: oirs.cesfamangelmo@saludpm.cl, Teléfono: 65 2 261160",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Angelmo",
+      "paragraphs": [
+        {
+          "context": "CESFAM Angelmo",
+          "qas": [
+            {
+              "id": "96",
+              "question": "¿Cómo obtener información de contacto de CESFAM Angelmo?",
+              "answers": [
+                {
+                  "text": "Email: oirs.cesfamangelmo@saludpm.cl, Teléfono: 65 2 261160",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Angelmo",
+      "paragraphs": [
+        {
+          "context": "CESFAM Angelmo",
+          "qas": [
+            {
+              "id": "97",
+              "question": "¿Qué servicios ofrece CESFAM Angelmo?",
+              "answers": [
+                {
+                  "text": "Atención general, odontología, vacunatorio, urgencias, laboratorio",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Angelmo",
+      "paragraphs": [
+        {
+          "context": "CESFAM Angelmo",
+          "qas": [
+            {
+              "id": "98",
+              "question": "¿Cuáles son los servicios disponibles en CESFAM Angelmo?",
+              "answers": [
+                {
+                  "text": "Atención general, odontología, vacunatorio, urgencias, laboratorio",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Angelmo",
+      "paragraphs": [
+        {
+          "context": "CESFAM Angelmo",
+          "qas": [
+            {
+              "id": "99",
+              "question": "¿Qué tipo de atención brinda CESFAM Angelmo?",
+              "answers": [
+                {
+                  "text": "Atención general, odontología, vacunatorio, urgencias, laboratorio",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Angelmo",
+      "paragraphs": [
+        {
+          "context": "CESFAM Angelmo",
+          "qas": [
+            {
+              "id": "100",
+              "question": "¿Qué áreas cubre CESFAM Angelmo?",
+              "answers": [
+                {
+                  "text": "Sin información específica",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Angelmo",
+      "paragraphs": [
+        {
+          "context": "CESFAM Angelmo",
+          "qas": [
+            {
+              "id": "101",
+              "question": "¿A qué sectores atiende CESFAM Angelmo?",
+              "answers": [
+                {
+                  "text": "Sin información específica",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Angelmo",
+      "paragraphs": [
+        {
+          "context": "CESFAM Angelmo",
+          "qas": [
+            {
+              "id": "102",
+              "question": "¿Qué poblaciones tienen acceso a los servicios de CESFAM Angelmo?",
+              "answers": [
+                {
+                  "text": "Sin información específica",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Angelmo",
+      "paragraphs": [
+        {
+          "context": "CESFAM Angelmo",
+          "qas": [
+            {
+              "id": "103",
+              "question": "¿Qué se necesita para inscribirse en CESFAM Angelmo?",
+              "answers": [
+                {
+                  "text": "Fotocopia de cédula, certificado de previsión de salud (FONASA), certificado de residencia",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Angelmo",
+      "paragraphs": [
+        {
+          "context": "CESFAM Angelmo",
+          "qas": [
+            {
+              "id": "104",
+              "question": "¿Cuáles son los requisitos para registrarse en CESFAM Angelmo?",
+              "answers": [
+                {
+                  "text": "Fotocopia de cédula, certificado de previsión de salud (FONASA), certificado de residencia",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Angelmo",
+      "paragraphs": [
+        {
+          "context": "CESFAM Angelmo",
+          "qas": [
+            {
+              "id": "105",
+              "question": "¿Qué documentos son necesarios para inscribirse en CESFAM Angelmo?",
+              "answers": [
+                {
+                  "text": "Fotocopia de cédula, certificado de previsión de salud (FONASA), certificado de residencia",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Angelmo",
+      "paragraphs": [
+        {
+          "context": "CESFAM Angelmo",
+          "qas": [
+            {
+              "id": "106",
+              "question": "¿Qué detalles importantes se deben saber sobre CESFAM Angelmo?",
+              "answers": [
+                {
+                  "text": "Totem para tickets, orden de llegada",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Angelmo",
+      "paragraphs": [
+        {
+          "context": "CESFAM Angelmo",
+          "qas": [
+            {
+              "id": "107",
+              "question": "¿Qué observaciones específicas tiene CESFAM Angelmo?",
+              "answers": [
+                {
+                  "text": "Totem para tickets, orden de llegada",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Angelmo",
+      "paragraphs": [
+        {
+          "context": "CESFAM Angelmo",
+          "qas": [
+            {
+              "id": "108",
+              "question": "¿Qué recomendaciones se deben considerar en CESFAM Angelmo?",
+              "answers": [
+                {
+                  "text": "Totem para tickets, orden de llegada",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Alerce",
+      "paragraphs": [
+        {
+          "context": "CESFAM Alerce",
+          "qas": [
+            {
+              "id": "109",
+              "question": "¿En qué dirección se encuentra CESFAM Alerce?",
+              "answers": [
+                {
+                  "text": "Calle Violeta Parra N° 5198, Alerce Norte, Puerto Montt",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Alerce",
+      "paragraphs": [
+        {
+          "context": "CESFAM Alerce",
+          "qas": [
+            {
+              "id": "110",
+              "question": "¿Dónde está localizado CESFAM Alerce?",
+              "answers": [
+                {
+                  "text": "Calle Violeta Parra N° 5198, Alerce Norte, Puerto Montt",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Alerce",
+      "paragraphs": [
+        {
+          "context": "CESFAM Alerce",
+          "qas": [
+            {
+              "id": "111",
+              "question": "¿Cuál es la ubicación exacta de CESFAM Alerce?",
+              "answers": [
+                {
+                  "text": "Calle Violeta Parra N° 5198, Alerce Norte, Puerto Montt",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Alerce",
+      "paragraphs": [
+        {
+          "context": "CESFAM Alerce",
+          "qas": [
+            {
+              "id": "112",
+              "question": "¿Cuál es el horario general de atención en CESFAM Alerce?",
+              "answers": [
+                {
+                  "text": "Lunes a viernes 08:00-20:00; sábado 09:00-14:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Alerce",
+      "paragraphs": [
+        {
+          "context": "CESFAM Alerce",
+          "qas": [
+            {
+              "id": "113",
+              "question": "¿Qué horario tiene el CESFAM para atención general?",
+              "answers": [
+                {
+                  "text": "Lunes a viernes 08:00-20:00; sábado 09:00-14:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Alerce",
+      "paragraphs": [
+        {
+          "context": "CESFAM Alerce",
+          "qas": [
+            {
+              "id": "114",
+              "question": "¿Cuáles son las horas de atención al público general en CESFAM Alerce?",
+              "answers": [
+                {
+                  "text": "Lunes a viernes 08:00-20:00; sábado 09:00-14:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Alerce",
+      "paragraphs": [
+        {
+          "context": "CESFAM Alerce",
+          "qas": [
+            {
+              "id": "115",
+              "question": "¿Cuál es el horario de funcionamiento de la farmacia en CESFAM Alerce?",
+              "answers": [
+                {
+                  "text": "Lunes a viernes 08:00-20:00; sábado 08:00-13:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Alerce",
+      "paragraphs": [
+        {
+          "context": "CESFAM Alerce",
+          "qas": [
+            {
+              "id": "116",
+              "question": "¿Qué horarios tiene la farmacia del CESFAM en CESFAM Alerce?",
+              "answers": [
+                {
+                  "text": "Lunes a viernes 08:00-20:00; sábado 08:00-13:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Alerce",
+      "paragraphs": [
+        {
+          "context": "CESFAM Alerce",
+          "qas": [
+            {
+              "id": "117",
+              "question": "¿Cuándo está abierta la farmacia de CESFAM Alerce?",
+              "answers": [
+                {
+                  "text": "Lunes a viernes 08:00-20:00; sábado 08:00-13:00",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Alerce",
+      "paragraphs": [
+        {
+          "context": "CESFAM Alerce",
+          "qas": [
+            {
+              "id": "118",
+              "question": "¿Qué horario tiene el servicio de urgencias en CESFAM Alerce?",
+              "answers": [
+                {
+                  "text": "24 horas todos los días",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Alerce",
+      "paragraphs": [
+        {
+          "context": "CESFAM Alerce",
+          "qas": [
+            {
+              "id": "119",
+              "question": "¿Cuándo opera el área de urgencias en CESFAM Alerce?",
+              "answers": [
+                {
+                  "text": "24 horas todos los días",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Alerce",
+      "paragraphs": [
+        {
+          "context": "CESFAM Alerce",
+          "qas": [
+            {
+              "id": "120",
+              "question": "¿Cuál es el horario de atención para emergencias en CESFAM Alerce?",
+              "answers": [
+                {
+                  "text": "24 horas todos los días",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Alerce",
+      "paragraphs": [
+        {
+          "context": "CESFAM Alerce",
+          "qas": [
+            {
+              "id": "121",
+              "question": "¿Cómo puedo contactar a CESFAM Alerce?",
+              "answers": [
+                {
+                  "text": "Email: oirs.alerce@saludpm.cl, Teléfono: 65 2 213838",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Alerce",
+      "paragraphs": [
+        {
+          "context": "CESFAM Alerce",
+          "qas": [
+            {
+              "id": "122",
+              "question": "¿Cuál es el número de teléfono de CESFAM Alerce?",
+              "answers": [
+                {
+                  "text": "Email: oirs.alerce@saludpm.cl, Teléfono: 65 2 213838",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Alerce",
+      "paragraphs": [
+        {
+          "context": "CESFAM Alerce",
+          "qas": [
+            {
+              "id": "123",
+              "question": "¿Cómo obtener información de contacto de CESFAM Alerce?",
+              "answers": [
+                {
+                  "text": "Email: oirs.alerce@saludpm.cl, Teléfono: 65 2 213838",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Alerce",
+      "paragraphs": [
+        {
+          "context": "CESFAM Alerce",
+          "qas": [
+            {
+              "id": "124",
+              "question": "¿Qué servicios ofrece CESFAM Alerce?",
+              "answers": [
+                {
+                  "text": "Atención general, odontología, vacunatorio, urgencias",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Alerce",
+      "paragraphs": [
+        {
+          "context": "CESFAM Alerce",
+          "qas": [
+            {
+              "id": "125",
+              "question": "¿Cuáles son los servicios disponibles en CESFAM Alerce?",
+              "answers": [
+                {
+                  "text": "Atención general, odontología, vacunatorio, urgencias",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Alerce",
+      "paragraphs": [
+        {
+          "context": "CESFAM Alerce",
+          "qas": [
+            {
+              "id": "126",
+              "question": "¿Qué tipo de atención brinda CESFAM Alerce?",
+              "answers": [
+                {
+                  "text": "Atención general, odontología, vacunatorio, urgencias",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Alerce",
+      "paragraphs": [
+        {
+          "context": "CESFAM Alerce",
+          "qas": [
+            {
+              "id": "127",
+              "question": "¿Qué áreas cubre CESFAM Alerce?",
+              "answers": [
+                {
+                  "text": "Calle Los Mañíos, Alerce Norte",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Alerce",
+      "paragraphs": [
+        {
+          "context": "CESFAM Alerce",
+          "qas": [
+            {
+              "id": "128",
+              "question": "¿A qué sectores atiende CESFAM Alerce?",
+              "answers": [
+                {
+                  "text": "Calle Los Mañíos, Alerce Norte",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Alerce",
+      "paragraphs": [
+        {
+          "context": "CESFAM Alerce",
+          "qas": [
+            {
+              "id": "129",
+              "question": "¿Qué poblaciones tienen acceso a los servicios de CESFAM Alerce?",
+              "answers": [
+                {
+                  "text": "Calle Los Mañíos, Alerce Norte",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Alerce",
+      "paragraphs": [
+        {
+          "context": "CESFAM Alerce",
+          "qas": [
+            {
+              "id": "130",
+              "question": "¿Qué se necesita para inscribirse en CESFAM Alerce?",
+              "answers": [
+                {
+                  "text": "Fotocopia de cédula, certificado de previsión de salud (FONASA), certificado de residencia",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Alerce",
+      "paragraphs": [
+        {
+          "context": "CESFAM Alerce",
+          "qas": [
+            {
+              "id": "131",
+              "question": "¿Cuáles son los requisitos para registrarse en CESFAM Alerce?",
+              "answers": [
+                {
+                  "text": "Fotocopia de cédula, certificado de previsión de salud (FONASA), certificado de residencia",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Alerce",
+      "paragraphs": [
+        {
+          "context": "CESFAM Alerce",
+          "qas": [
+            {
+              "id": "132",
+              "question": "¿Qué documentos son necesarios para inscribirse en CESFAM Alerce?",
+              "answers": [
+                {
+                  "text": "Fotocopia de cédula, certificado de previsión de salud (FONASA), certificado de residencia",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Alerce",
+      "paragraphs": [
+        {
+          "context": "CESFAM Alerce",
+          "qas": [
+            {
+              "id": "133",
+              "question": "¿Qué detalles importantes se deben saber sobre CESFAM Alerce?",
+              "answers": [
+                {
+                  "text": "Atención 24 horas en SAR Alerce",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Alerce",
+      "paragraphs": [
+        {
+          "context": "CESFAM Alerce",
+          "qas": [
+            {
+              "id": "134",
+              "question": "¿Qué observaciones específicas tiene CESFAM Alerce?",
+              "answers": [
+                {
+                  "text": "Atención 24 horas en SAR Alerce",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "CESFAM Alerce",
+      "paragraphs": [
+        {
+          "context": "CESFAM Alerce",
+          "qas": [
+            {
+              "id": "135",
+              "question": "¿Qué recomendaciones se deben considerar en CESFAM Alerce?",
+              "answers": [
+                {
+                  "text": "Atención 24 horas en SAR Alerce",
+                  "answer_start": 0
+                }
+              ],
+              "is_impossible": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
